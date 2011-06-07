@@ -1,0 +1,8 @@
+Two scripts for calculating the current value of historical swedish expenditures according to the Konsumentprisindex. See:
+
+    http://www.scb.se/Pages/TableAndChart____272151.aspx
+
+
+KPI.py - A database class for looking up historical values.
+calc-value.py - Extract dates and values from an org-mode table and calculate the sum of their present value.
+
